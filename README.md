@@ -1,6 +1,5 @@
-− A weekend programmer who can do nothing without LLMs based in Fukuoka, Japan
-- Used to work on making company database that crawl every information that form the database from the Internet at my work.
-- Eager to learn and use LLMs 'cause it's so fun 😊 
+[![Palkia](https://cdn3.emoji.gg/emojis/3087-palkia.gif)](https://emoji.gg/emoji/3087-palkia)[![Dialga](https://cdn3.emoji.gg/emojis/8908-dialga.gif)](https://emoji.gg/emoji/8908-dialga)[![DARKRAI](https://cdn3.emoji.gg/emojis/72711-darkrai.gif)](https://emoji.gg/emoji/72711-darkrai)
+− A weekend programmer who can do nothing without LLMs based in Fukuoka, Japan 
 
 <!---
 tabear25/tabear25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
